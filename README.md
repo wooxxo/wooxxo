@@ -2,7 +2,7 @@
 
 - Dongguk University ICE (2021 ~ )
 
-<br><br>
+<br>
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
