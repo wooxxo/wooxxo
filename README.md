@@ -1,4 +1,4 @@
-# 😎 It's me !
+## 😎 About woo !
 
 - Dongguk University ICE (2021 ~ )
 
@@ -22,6 +22,12 @@
 
 ## 📚 Project
 
+<style>
+    th, td {
+        font-family: 'Noto Sans';
+        font-size: 12px;
+    }
+</style>
 <table>
     <tr>
         <th>Project</th>
