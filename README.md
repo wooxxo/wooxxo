@@ -61,11 +61,10 @@
         <td>2023</td>
     </tr>
     <tr>
-        <td>교내 smart farm 만들기</td>
+        <td>교내 Smart Farm 구축</td>
         <td>정보통신공학과 아이디어 공모전</td>
         <td>-</td>
         <td>프로젝트(4명), 팀원</td>
-        <td>금상</td>
         <td>2023</td>
     </tr>
     <tr>
