@@ -72,6 +72,7 @@
         <td>임베디드소프트웨어</td>
         <td>
             <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+            ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white)
         </td>
         <td>개인 프로젝트</td>
         <td>2024</td>
