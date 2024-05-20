@@ -2,6 +2,7 @@
 
 - 동국대학교 정보통신공학과 (2021 ~ )
 
+<br><br><br>
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
@@ -12,6 +13,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
+<br><br><br>
 ## 📚 Project
 
 | 프로젝트 이름 | 설명 | 사용 기술 |
@@ -20,6 +22,7 @@
 | 프로젝트2 | 프로젝트에 대한 간단한 설명 | C, Flask |
 | 프로젝트3 | 프로젝트에 대한 간단한 설명 | Dart, Android Studio |
 
+<br><br><br>
 ## 📫 My workplace
 - E-mail: tmdxdus2@naver.com
 - GitHub: [@wooxxo] https://github.com/wooxxo
