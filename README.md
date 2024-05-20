@@ -68,7 +68,7 @@
         <td>2023</td>
     </tr>
     <tr>
-        <td>Middleware - dummy_driver 만들기</td>
+        <td>Middleware 구현</td>
         <td>임베디드소프트웨어</td>
         <td>
             <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
