@@ -13,7 +13,7 @@
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=flat-square&logo=android-studio&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-FCC624?style=flat-square&logo=Ubuntu&logoColor=white)
 <br>
 ![Figma](https://img.shields.io/badge/Figma-darkorange?style=flat-square&logo=Figma&logoColor=white)
 
