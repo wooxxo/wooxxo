@@ -6,14 +6,14 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-lightblue?style=flat-square&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 <br>
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=flat-square&logo=android-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 <br>
 ![Figma](https://img.shields.io/badge/Figma-darkorange?style=flat-square&logo=Figma&logoColor=white)
 
