@@ -1,4 +1,4 @@
-## About woo 🕶️
+## 🕶️ About woo
 
 - Dongguk University ICE (2021 ~ )
 
