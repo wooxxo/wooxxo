@@ -1,9 +1,6 @@
-# It's me !
+# 😎 It's me !
 
-- 👋 동국대학교 정보통신공학과 (2021 ~ )
-- 🔭 
-- 🌱 
-- 💬 
+- 동국대학교 정보통신공학과 (2021 ~ )
 
 ## 🛠 Tech Stack
 
@@ -25,4 +22,4 @@
 
 ## 📫 My workplace
 - E-mail: tmdxdus2@naver.com
-- GitHub: 
+- GitHub: [@wooxxo] https://github.com/wooxxo
