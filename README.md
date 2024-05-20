@@ -41,7 +41,7 @@
         <td>식단 관리 어플리케이션</td>
         <td>모바일 소프트웨어</td>
         <td>
-            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=white">
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
         </td>
         <td>Front-end, 프로젝트(2명), 팀원</td>
