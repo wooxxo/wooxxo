@@ -41,6 +41,7 @@
         <td>식단 관리 어플리케이션</td>
         <td>모바일 소프트웨어</td>
         <td>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
         </td>
@@ -51,7 +52,7 @@
         <td>Re-mail : 안심 메일 서비스</td>
         <td>제 10회 SW개발보안 경진대회</td>
         <td>
-            <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
             <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -72,7 +73,7 @@
         <td>임베디드소프트웨어</td>
         <td>
             <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-            <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white">
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
         </td>
         <td>개인 프로젝트</td>
         <td>2024</td>
@@ -81,10 +82,12 @@
         <td>My photo diary</td>
         <td>소프트웨어공학및설계</td>
         <td>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
             <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+            <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
         </td>
         <td>Front-end, Back-end</td>
         <td>2024</td>
