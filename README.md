@@ -22,7 +22,7 @@
 
 ## 📚 Project
 
-<td sytle="font-family: 'Noto Sans'; font-size: 12px;">
+<td sytle="font-family: 'D2Coding'; font-size: 12px;">
 <table>
     <tr>
         <th>Project</th>
@@ -32,11 +32,11 @@
         <th>Year</th>
     </tr>
     <tr>
-        <td sytle="font-family: 'Noto Sans'; font-size: 12px;">메타버스 속 화훼시장 구축</td>
-        <td sytle="font-family: 'Noto Sans'; font-size: 12px;">메타버스 융합 아이디어 경진대회</td>
-        <td sytle="font-family: 'Noto Sans'; font-size: 12px;">-</td>
-        <td sytle="font-family: 'Noto Sans'; font-size: 12px;">프로젝트(4명), 팀장</td>
-        <td sytle="font-family: 'Noto Sans'; font-size: 12px;">2022</td>
+        <td sytle="font-family: 'D2Coding'; font-size: 12px;">메타버스 속 화훼시장 구축</td>
+        <td sytle="font-family: 'D2Coding'; font-size: 12px;">메타버스 융합 아이디어 경진대회</td>
+        <td sytle="font-family: 'D2Coding'; font-size: 12px;">-</td>
+        <td sytle="font-family: 'D2Coding'; font-size: 12px;">프로젝트(4명), 팀장</td>
+        <td sytle="font-family: 'D2Coding'; font-size: 12px;">2022</td>
     </tr>
     <tr>
         <td>식단 관리 어플리케이션</td>
