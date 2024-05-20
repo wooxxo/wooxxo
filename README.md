@@ -8,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-lightblue?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-navy?style=flat-square&logo=Dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 <br>
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
