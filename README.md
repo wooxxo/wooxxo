@@ -28,7 +28,6 @@
         <th>Organization</th>
         <th>Tech Stack</th>
         <th>Contribution</th>
-        <th>Award</th>
         <th>Year</th>
     </tr>
     <tr>
@@ -36,7 +35,6 @@
         <td>메타버스 융합 아이디어 경진대회</td>
         <td>-</td>
         <td>프로젝트(4명), 팀장</td>
-        <td>장려상</td>
         <td>2022</td>
     </tr>
     <tr>
@@ -47,7 +45,6 @@
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
         </td>
         <td>Front-end, 프로젝트(2명), 팀원</td>
-        <td>-</td>
         <td>2022</td>
     </tr>
     <tr>
@@ -61,7 +58,6 @@
             <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">
         </td>
         <td>Front-end, Server</td>
-        <td>본선진출</td>
         <td>2023</td>
     </tr>
     <tr>
@@ -79,7 +75,6 @@
             <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
         </td>
         <td>개인 프로젝트</td>
-        <td>-</td>
         <td>2024</td>
     </tr>
     <tr>
@@ -92,7 +87,6 @@
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
         </td>
         <td>Front-end, Back-end</td>
-        <td>-</td>
         <td>2024</td>
     </tr>
     <tr>
@@ -103,7 +97,6 @@
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
         </td>
         <td>Front-end</td>
-        <td>-</td>
         <td>2024</td>
     </tr>
 </table>
