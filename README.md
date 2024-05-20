@@ -5,16 +5,17 @@
 <br>
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-lightblue?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-navy?style=flat-square&logo=Dart&logoColor=white)
 <br>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=flat-square&logo=android-studio&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white)
 <br>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-darkorange?style=flat-square&logo=Figma&logoColor=white)
+
 
 <br>
 
