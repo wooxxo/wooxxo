@@ -44,7 +44,7 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
         </td>
-        <td>Front-end, 프로젝트(2명), 팀원</td>
+        <td>Front-end</td>
         <td>2022</td>
     </tr>
     <tr>
