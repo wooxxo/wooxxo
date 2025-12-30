@@ -1,6 +1,6 @@
 ## 🕶️ About woo
 
-- Dongguk University ICE (2021 ~ )
+- Dongguk University ICE (2021.03 ~ 2025.02)
 
 <br>
 
