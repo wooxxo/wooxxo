@@ -4,8 +4,7 @@
 - velog: 
 
 ## About me 😎
-- [2021.03 ~ 2025.02] Dongguk University ICE
-    - 프로젝트 모음집
+- [2021.03 ~ 2025.02] Dongguk University 정보통신공학과 [🔗](https://github.com/wooxxo/University-Projects.git)
 
 - [2025.12 ~ ] 우리 FIS 아카데미 - 클라우드 엔지니어링 [🔗](https://github.com/wooxxo/FISA-Cloud-Engineering.git)
 
