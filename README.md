@@ -1,13 +1,30 @@
 ### 안녕하세요 우승연입니다👏🏻
 
-## Blog ✏️
-- velog: 
 
 ## About me 😎
-- [2021.03 ~ 2025.02] Dongguk University 정보통신공학과 [🔗](https://github.com/wooxxo/University-Projects.git)
+- E-mail : tmdxdus2@naver.com
+  
+- [2021.03 ~ 2025.02] Dongguk University 정보통신공학과
 
-- [2025.12 ~ ] 우리 FIS 아카데미 - 클라우드 엔지니어링 [🔗](https://github.com/wooxxo/FISA-Cloud-Engineering.git)
+- [2025.12 ~ ] 우리 FIS 아카데미 - 클라우드 엔지니어링
 
+## 🎓 University Projects
+ 
+| 프로젝트 | 설명 | GitHub |
+|-----------|------|--------|
+| 📸 Photo Diary | 사진 기반 일기 작성 및 관리 웹 서비스 | [🔗](https://github.com/wooxxo/Photo-diary-Project.git) |
+| 📧 Re-mail | 임시 이메일 기반 안심 메일 리디렉션 서비스 | [🔗]() |
+| 👗 LOOK | AI 기반 의상 기록 및 추천 어플리케이션 | [🔗](https://github.com/wooxxo/LooK.git) |
+ 
+## ☁️ 우리FISA 클라우드 엔지니어링
+ 
+| 프로젝트 | 설명 | GitHub |
+|-----------|------|--------|
+| ⚡ StreamAPI 성능 비교 | Java Stream API 중간 연산 성능 비교 실험 | [🔗](https://github.com/wooxxo/Overusing-Intermediate-Operations.git) |
+| 🔄 n8n 학습 자동화 | Notion · AI API 연계 학습 자동화 파이프라인 | [🔗](https://github.com/wooxxo/n8n-notion-refiner.git) |
+| 📊 우리카드 데이터 분석 | 디지털 채널 미사용 고객 대상 마케팅 전략 도출 | [🔗](https://github.com/wooxxo/ElasticSearch_mini.git) |
+| ⚖️ 로드밸런싱 세미나 | 서버 부하 분산 및 장애 대응 기술 세미나 & 실습 | [🔗]() |
+| 🖥️ VMware 이중화 설계 | VMware 기반 이중화 데이터센터 설계 | [🔗](https://github.com/wooxxo/VMware-TeamLab.git) |
 
 ## Tech Skills 🛠
 
