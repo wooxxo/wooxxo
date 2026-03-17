@@ -23,7 +23,7 @@
 | ⚡ StreamAPI 연산 성능 비교 | Java Stream API 중간 연산 성능 비교 실험 | [🔗](https://github.com/wooxxo/Overusing-Intermediate-Operations.git) |
 | 🔄 n8n 기반 notion을 활용한 학습 자동화 | Notion · AI API 연계 학습 자동화 파이프라인 | [🔗](https://github.com/wooxxo/n8n-notion-refiner.git) |
 | 📊 ELK를 활용한 우리카드 데이터 분석 | 디지털 채널 미사용 고객 대상 마케팅 전략 도출 | [🔗](https://github.com/wooxxo/ElasticSearch_mini.git) |
-| ⚖️ 로드밸런싱 | 서버 부하 분산 및 장애 대응 기술 세미나 & 실습 | [🔗]() |
+| ⚖️ 로드밸런싱 | 서버 부하 분산 및 장애 대응 기술 세미나 & 실습 | [🔗](https://github.com/wooxxo/seminar-LB.git) |
 | 🖥️ VMware 이중화 설계 | VMware 기반 이중화 데이터센터 설계 | [🔗](https://github.com/wooxxo/VMware-TeamLab.git) , [🔗](https://github.com/wooxxo/VMwareWeb.git) |
 
 ## Tech Skills 🛠
