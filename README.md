@@ -25,6 +25,7 @@
 | 📊 ELK를 활용한 우리카드 데이터 분석 | 디지털 채널 미사용 고객 대상 마케팅 전략 도출 | [🔗](https://github.com/wooxxo/ElasticSearch_mini.git) |
 | ⚖️ 로드밸런싱 | 서버 부하 분산 및 장애 대응 기술 세미나 & 실습 | [🔗](https://github.com/wooxxo/seminar-LB.git) |
 | 🖥️ VMware 이중화 설계 | VMware 기반 이중화 데이터센터 설계 | [🔗](https://github.com/wooxxo/VMware-TeamLab.git) , [🔗](https://github.com/wooxxo/VMwareWeb.git) |
+| 🚀 Spring Boot jar 자동 배포 파이프라인 | inotify-tools 기반 jar 변경 감지 & 자동 재배포 파이프라인 | [🔗](https://github.com/wooxxo/FISA-inotify-Lab) |
 
 ## Tech Skills 🛠
 
